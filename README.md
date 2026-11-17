@@ -52,7 +52,7 @@ networkwalks-w3-pm2/
 ├── README.md          # This file
 ├── notes/              # Personal write-up / lab notes
 └── screenshots/        # Evidence of completed steps (hash extracted, password recovered)
-```
+![](Screenshot_20261117_210300_My Files)
 
 ## 🔗 Related
 
