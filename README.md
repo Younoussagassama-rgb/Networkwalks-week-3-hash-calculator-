@@ -44,6 +44,7 @@ device (Windows-track exercise, done via mobile apps).
   that a simple hash calculator/cracker pair cannot defeat as easily.
 - These concepts apply directly to real-world document and account security —
   always use strong passwords to protect sensitive files.
+  ![](Capture.PNG)
 
 ## 📂 Repository Structure
 
